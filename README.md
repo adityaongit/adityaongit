@@ -1,4 +1,5 @@
-<h2 align="left">Hello👋, I'm Aditya, a Xoogler with interest in Cloud and Javascript.</h2>
+<h2 align="left">Hello👋, I'm Aditya, a Xoogler with interest in Cloud and Backend Engineering.</h2>
+<h3 align="left">I am currently working as a Backend Engineer @edraLabs.<h3>
 
 ###
 
