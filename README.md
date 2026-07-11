@@ -1,5 +1,5 @@
 <h2 align="left">Hello👋, I'm Aditya, a Xoogler with interest in AI and Distibuted Backend Systems</h2>
-<h3 align="left">I am currently working as a Backend Engineer @edraLabs.<h3>
+<h3 align="left">I am currently working as a AI Engineer @delta-exchange.<h3>
 
 ###
 
