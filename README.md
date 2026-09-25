@@ -14,7 +14,7 @@ Backend engineer with 2 years of experience building distributed AI systems.
 
 - Software Engineer on the AI team at [Delta Exchange](https://www.delta.exchange/). I build AI copilots for a crypto derivatives exchange.
 - Before that, at Edra Labs (BrowserStack): a multi-agent CX backend that resolves 60% of L2 tickets without a human, an LLM-as-a-judge eval layer, and an LLM response cache.
-- SWE intern at Google Cloud: wrote Terraformarium, a Go tool that automates Anthos and Composer infra setup and cut provisioning cost by 37%.
+- Intern at Google Cloud: wrote Terraformarium, a Go tool that automates Anthos and Composer infra setup and cut provisioning cost by 37%.
 
 ### Projects
 
