@@ -87,9 +87,3 @@ Backend engineer with 2 years of experience building distributed AI systems.
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="Linux" />
 </p>
-
-### GitHub activity
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=adityaongit&theme=github-dark-blue&hide_border=true" alt="GitHub streak" />
-</div>
